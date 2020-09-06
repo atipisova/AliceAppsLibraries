@@ -1,0 +1,3 @@
+include ':localeHelper'
+include ':app'
+rootProject.name = "AliceAppsLibraries"
